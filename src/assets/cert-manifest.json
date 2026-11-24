@@ -303,5 +303,28 @@
       "officialUrl": "https://scaleway-learning-exam-guides-shared.s3.nl-ams.scw.cloud/Scaleway%20Associate%20Security%20%26%20Identity%20Exam%20Guide.pdf"
     },
     "questionCount": 92
+  },
+  {
+    "file": "EC-NAT questions.json",
+    "exam": {
+      "name": "Examen civique pour la nationalité française",
+      "code": "EC-NAT",
+      "totalQuestions": 40,
+      "timeLimitMinutes": 45,
+      "passingScore": {
+        "passingScore": 80
+      },
+      "weights": {
+        "Principes et valeurs de la République": 27.5,
+        "Système institutionnel et politique": 15,
+        "Droits et devoirs": 27.5,
+        "Histoire, géographie et culture": 20,
+        "Vivre dans la société française": 10
+      },
+      "instructions": "Chaque question n'a qu'une seule bonne réponse parmi quatre propositions. La banque reprend la liste officielle des questions de connaissance ; les 12 questions de mise en situation de l'examen réel ne sont pas publiées et n'y figurent pas.",
+      "overview": "Obligatoire pour une naturalisation ou une réintégration dans la nationalité française par décret, l'examen civique vérifie la connaissance des principes et valeurs de la République, des institutions, des droits et devoirs du citoyen, de l'histoire, de la géographie et de la culture françaises, et de la vie en société. C'est un QCM en français de 40 questions, connaissances et mises en situation, réussi avec 32 bonnes réponses.",
+      "officialUrl": "https://www.service-public.gouv.fr/particuliers/vosdroits/F39426"
+    },
+    "questionCount": 259
   }
 ]

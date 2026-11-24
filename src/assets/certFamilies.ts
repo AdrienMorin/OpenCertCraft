@@ -10,6 +10,7 @@ export const CERT_FAMILIES: readonly CertFamily[] = [
   { id: 'gcp', label: 'Google Cloud', codes: ['GCP-ACE'] },
   { id: 'kubernetes', label: 'Kubernetes', codes: ['CKA', 'CKS'] },
   { id: 'scaleway', label: 'Scaleway', codes: ['SCW-FND', 'SCW-SA', 'SCW-SEC'] },
+  { id: 'france', label: 'France', codes: ['EC-NAT'] },
 ]
 
 export const CERT_FAMILY: Record<string, string> = Object.fromEntries(
